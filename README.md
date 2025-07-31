@@ -104,13 +104,4 @@ Edit
 ***************************************
 👨‍💻 Developers
 Umar Sheikh
-
-Zain
 Department of Computer Science, FAST NUCES
-
-📌 Notes
-All user input is validated for robustness.
-
-If no high_score.txt exists, it is created automatically.
-
-Make sure the word list files are properly formatted (one word per line)
